@@ -1,0 +1,9 @@
+.container{
+    max-width: 420px;
+    margin-top: 20px;
+}
+
+button,
+label{
+    margin: 12px 0;
+}
